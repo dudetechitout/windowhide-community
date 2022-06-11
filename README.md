@@ -11,4 +11,3 @@ If you're filing a bug, please include the following:
 Windows version
 Window Hide version
 Detailed steps to reproduce
-If you wish to contact me directly, feel free to send an email to hello@windowhide.com
